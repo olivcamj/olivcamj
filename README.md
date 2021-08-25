@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **React, JavaScript and Node**
 
-- ⚡ Fun fact **I think I'm funny**
+- ⚡ Fun fact: **I think I'm funny**
 
 
 <h3 align="left">Languages and Tools:</h3>
