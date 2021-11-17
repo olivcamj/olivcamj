@@ -2,9 +2,9 @@
 
 <h3 align="center">A passionate frontend developer from Florida</h3>
 
-- 🔭 I’m currently working on [Apiary](https://github.com/olivcamj/apiary)
+- 🔭 I’m currently working on [my portfolio](https://github.com/olivcamj/portfolioy)
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **TypeScript**
 
 - 💬 Ask me about **React, JavaScript and Node**
 
