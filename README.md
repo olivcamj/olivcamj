@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate frontend developer from Florida</h3>
 
-- 🔭 I’m currently working on [my portfolio](https://github.com/olivcamj/portfolioy)
+- 🔭 I’m currently working on [my portfolio](https://github.com/olivcamj/portfolio)
 
 - 🌱 I’m currently learning **TypeScript**
 
