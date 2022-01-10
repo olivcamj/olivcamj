@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Olivia</h1>
 
-<h3 align="center">A passionate frontend developer from Florida</h3>
+<h3 align="center">A passionate frontend developer currently living in Florida</h3>
 
 - 🔭 I’m currently working on [my portfolio](https://github.com/olivcamj/portfolio)
 
