@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate frontend developer currently living in Florida</h3>
 
-- 🔭 I’m currently working on [mock spotify](https://github.com/olivcamj/fullstack-music) (user account)
+- 🔭 I’m currently working on [an interactive comments section](https://github.com/olivcamj/interactive-comments) [challenge](https://www.frontendmentor.io/challenges/interactive-comments-section-iG1RugEG9)
 
 - 🌱 I’m currently learning **Next.js**
 
