@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm Olivia</h1>
+<h1 align="center">Hi 👋🏿, I'm Olivia</h1>
 
-<h3 align="center">A passionate frontend developer currently living in Florida</h3>
+<h3 align="center">A Software Engineer (frontend focused) currently living in Florida</h3>
 
-- 🔭 I’m currently working on [an interactive comments section](https://github.com/olivcamj/interactive-comments) [challenge](https://www.frontendmentor.io/challenges/interactive-comments-section-iG1RugEG9)
+🔭 Right now, my main focus is honing my skills for coding interviews, preparing to tackle challenging problems head-on.
 
-- 🌱 I’m currently learning **Next.js**
+🌱 In my journey of continuous growth, I'm diving deep into Next.js, exploring its powerful features and enhancing my proficiency in building robust web applications.
 
-- 💬 Ask me about **React, JavaScript and Node**
-
-- ⚡ Fun fact: **I think I'm funny**
+Below where my contribution graph is empty, it's likely because I was tending to my family, enjoying walks with my dog 🐾, hitting the weights, or doing light cardio 🫀 to stay energized and focused. Because life's too short not to embrace every moment! 
+<br />
+Let's connect and collaborate on exciting projects! Feel free to explore my repositories and contact me on [linkedin](https://www.linkedin.com/in/olivia-cameronj). 
 
 
 <h3 align="left">Languages and Tools:</h3>
