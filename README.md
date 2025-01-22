@@ -8,7 +8,7 @@
 
 Below where my contribution graph is empty, it's likely because I was tending to my family, enjoying walks with my dog 🐾, hitting the weights, or doing light cardio 🫀 to stay energized and focused. Because life's too short not to embrace every moment! 
 <br />
-Let's connect and collaborate on exciting projects! Feel free to explore my repositories and contact me on [linkedin](https://www.linkedin.com/in/olivia-cameronj). 
+
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -16,7 +16,11 @@ Let's connect and collaborate on exciting projects! Feel free to explore my repo
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=olivcamj&show_icons=true&locale=en&layout=compact" alt="olivcamj" /></p>
 
-
+<h2 align="center">Feel free to reach out using the links below. Thanks for visiting!</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/olivia-cameronj/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"></a>
+  <a href="mailto:olivia.cameronj15@gmail.com"><img src="https://img.shields.io/badge/Email-%23E4405F.svg?&amp;style=for-the-badge&amp;logo=Email&amp;logoColor=white"></a>
+</p> 
 
 <!--
 **olivcamj/olivcamj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
