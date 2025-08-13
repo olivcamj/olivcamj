@@ -80,7 +80,7 @@
 <br />
 <p align="center">
   <a href="https://www.linkedin.com/in/olivia-cameronj/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"></a>
-  <a href="mailto:olivia.cameronj15@gmail.com"><img src="https://img.shields.io/badge/Email-%23E4405F.svg?&amp;style=for-the-badge&amp;logo=Email&amp;logoColor=white"></a>
+  <a href="mailto:olivia.j.cameron@outlook.com"><img src="https://img.shields.io/badge/Email-%23E4405F.svg?&amp;style=for-the-badge&amp;logo=Email&amp;logoColor=white"></a>
 </p> 
 <br />
 Let's code, connect, and create awesome things together!
