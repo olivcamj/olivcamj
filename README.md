@@ -53,5 +53,5 @@ collection secured with JWT auth.
 ## Contact
 
 [oliviacameron.com](https://oliviacameron.com) ·
-[linkedin.com/in/oliviajcameron](https://linkedin.com/in/oliviacameron) ·
+[linkedin.com/in/olivia-cameronj](https://linkedin.com/in/olivia-cameronj) ·
 [contact@oliviacameron.com](mailto:contact@oliviacameron.com)
