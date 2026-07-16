@@ -37,11 +37,11 @@ Collaborative application tracker built with Agile workflow and
 GitHub Projects. Designed and implemented all UI components.
 
 -->
-**[ClarityBoard](https://github.com/olivcamj/clarityboard)** · NestJS · Prisma · Next.js · Clerk
+**[ClarityBoard](https://github.com/olivcamj/clarityboard) · [Live Demo ↗](https://clarity-board-nine.vercel.app/)**  · NestJS · Prisma · Next.js · Clerk
 Full stack team management app with authenticated CRUD operations and
-role-based access. *(In progress)*
+role-based access. *(In progress/MVP ✔️)*
 
-**[News Explorer](https://github.com/olivcamj/news-explorer-frontend) · [Live Demo ↗](https://olivcamj.github.io/)**  · React · Node.js · MongoDB · JWT
+**[News Explorer](https://github.com/olivcamj/news-explorer-frontend) · [Live Demo ↗](https://github.com/olivcamj/news-explorer-frontend)**  · React · Node.js · MongoDB · JWT
 Personal article bookmarking app backed by a live news API. Users
 create accounts, search headlines, and save articles to a private
 collection secured with JWT auth.
